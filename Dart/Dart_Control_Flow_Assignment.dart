@@ -10,7 +10,6 @@ void main () {
     print("Your number is equal 10");
 
   }else{
-    print("Can't be identified.");
+    print("Can't be identified...");
   }
-
 }
