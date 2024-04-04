@@ -12,13 +12,12 @@
 
 }
 
-.container{/*
+.container{
     width: 400px;
     height: 50S0px;
     border: 5px solid black;
     padding: 50px;
     margin : 30px;
-    */
     display: flex;
 }
 .item {
@@ -31,4 +30,10 @@
 
 body{
     background-color: pink;
+}
+.chepe{
+    color: black;
+}
+#mambo_mob {
+    color: black;
 }
